@@ -26,19 +26,19 @@ SQLite Database → FastAPI → Telegram Bot / HTTP Client
 
 #### Команда /start
 
-<img width="912" height="786" alt="изображение" src="https://github.com/user-attachments/assets/c7354405-4dbd-4e38-b57d-5579146551a0" />
+<img width="598" height="963" alt="изображение" src="https://github.com/user-attachments/assets/4f3408ea-97dc-416a-8bb6-70278a168c3b" />
 
 #### Добавление спортсмена
 
-<img width="598" height="963" alt="изображение" src="https://github.com/user-attachments/assets/b5978e54-23b1-44a9-b260-e8be5e17ed59" />
+<img width="745" height="220" alt="изображение" src="https://github.com/user-attachments/assets/72006da7-ccbb-4628-a486-259d06728a6b" />
 
 #### Получение призёров
 
-<img width="745" height="220" alt="изображение" src="https://github.com/user-attachments/assets/b0caed54-dc2a-41d0-a06f-6eb2774c0f68" />
+<img width="749" height="253" alt="изображение" src="https://github.com/user-attachments/assets/7e79c854-cb49-4b32-851b-000f944baa53" />
 
 #### Статистика по клубам
 
-<img width="749" height="253" alt="изображение" src="https://github.com/user-attachments/assets/cac09b76-0c51-4d2d-bd7a-aa3171c55856" />
+<img width="720" height="337" alt="изображение" src="https://github.com/user-attachments/assets/c8e4f84c-7172-4c3d-a9d8-01c608f91c69" />
 
 ### Работа эндпоинта FastAPI
 
@@ -46,7 +46,7 @@ SQLite Database → FastAPI → Telegram Bot / HTTP Client
 
 ### Получение данных через API
 
-<img width="630" height="436" alt="изображение" src="https://github.com/user-attachments/assets/79d8178f-7da8-4309-8ead-b2adee290550" />
+<img width="630" height="436" alt="изображение" src="https://github.com/user-attachments/assets/3b4f33dc-530a-49f9-b3de-8881d99bb610" />
 
 ## Запуск
 
