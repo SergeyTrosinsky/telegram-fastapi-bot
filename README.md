@@ -22,6 +22,11 @@
 
 SQLite Database → FastAPI → Telegram Bot / HTTP Client
 
+Схема БД:
+
+<img width="912" height="786" alt="изображение" src="https://github.com/user-attachments/assets/a36c320e-2ac4-48cc-9f90-f89a28929d02" />
+
+
 ## Скриншоты. Работа Telegram-бота
 
 #### Команда /start
