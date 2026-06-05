@@ -26,26 +26,26 @@ SQLite Database → FastAPI → Telegram Bot / HTTP Client
 
 #### Команда /start
 
-![[Pasted image 20260601130941.png]]
+<img width="912" height="786" alt="изображение" src="https://github.com/user-attachments/assets/c7354405-4dbd-4e38-b57d-5579146551a0" />
 
 #### Добавление спортсмена
 
-![[Pasted image 20260601131121.png|697]]
+<img width="598" height="963" alt="изображение" src="https://github.com/user-attachments/assets/b5978e54-23b1-44a9-b260-e8be5e17ed59" />
 
 #### Получение призёров
 
-![[Pasted image 20260601131216.png]]
+<img width="745" height="220" alt="изображение" src="https://github.com/user-attachments/assets/b0caed54-dc2a-41d0-a06f-6eb2774c0f68" />
 
 #### Статистика по клубам
 
-![[Pasted image 20260601131318.png]]
+<img width="749" height="253" alt="изображение" src="https://github.com/user-attachments/assets/cac09b76-0c51-4d2d-bd7a-aa3171c55856" />
 ### Работа эндпоинта FastAPI
 
-![[Pasted image 20260601131406.png]]
+<img width="720" height="337" alt="изображение" src="https://github.com/user-attachments/assets/fe9ef428-9e59-4058-8a6f-c59ebca45b97" />
 
 ### Получение данных через API
 
-![[Pasted image 20260601131435.png]]
+<img width="630" height="436" alt="изображение" src="https://github.com/user-attachments/assets/79d8178f-7da8-4309-8ead-b2adee290550" />
 
 ## Запуск
 
@@ -55,7 +55,7 @@ SQLite Database → FastAPI → Telegram Bot / HTTP Client
 python create_sport_db.py
 ```
 
-![[Pasted image 20260601131954.png]]
+<img width="1064" height="107" alt="изображение" src="https://github.com/user-attachments/assets/1c00bd5d-a456-45b1-b201-f6b812e81601" />
 
 После этого можно запустить API:
 
@@ -69,7 +69,8 @@ uvicorn api:app --reload
 python bot.py
 ```
 
-![[Pasted image 20260601131856.png]]
+<img width="1064" height="244" alt="изображение" src="https://github.com/user-attachments/assets/c5c85969-a574-41c6-a695-5485ab337983" />
+
 ## Что было реализовано
 
 В рамках проекта были освоены проектирование реляционных баз данных, написание SQL-запросов, создание Telegram-ботов, разработка REST API и интеграция нескольких компонентов в единую клиент-серверную систему.
