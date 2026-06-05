@@ -39,6 +39,7 @@ SQLite Database → FastAPI → Telegram Bot / HTTP Client
 #### Статистика по клубам
 
 <img width="749" height="253" alt="изображение" src="https://github.com/user-attachments/assets/cac09b76-0c51-4d2d-bd7a-aa3171c55856" />
+
 ### Работа эндпоинта FastAPI
 
 <img width="720" height="337" alt="изображение" src="https://github.com/user-attachments/assets/fe9ef428-9e59-4058-8a6f-c59ebca45b97" />
