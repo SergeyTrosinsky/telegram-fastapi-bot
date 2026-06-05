@@ -42,7 +42,7 @@ SQLite Database → FastAPI → Telegram Bot / HTTP Client
 
 ### Работа эндпоинта FastAPI
 
-<img width="720" height="337" alt="изображение" src="https://github.com/user-attachments/assets/fe9ef428-9e59-4058-8a6f-c59ebca45b97" />
+<img width="674" height="660" alt="изображение" src="https://github.com/user-attachments/assets/f4750b7b-372b-4612-922a-1ec1ce42568f" />
 
 ### Получение данных через API
 
